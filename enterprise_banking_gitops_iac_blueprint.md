@@ -2,9 +2,7 @@
 
 **Document Classification:** Tier-1 Enterprise Architecture & Security Governance Blueprint  
 **Target Stack:** GitHub Enterprise, ArgoCD, Terraform / OpenTofu (Terragrunt), Crossplane, HashiCorp Vault, Kyverno  
-**Regulatory Alignment:** RBI Master Direction on IT Governance & Cybersecurity, PCI-DSS v4.0, SOC2 Type II, ISO/IEC 27001  
 
----
 
 ## 1. Executive Summary & Architectural Philosophy
 
